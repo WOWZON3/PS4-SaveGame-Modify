@@ -1,4 +1,4 @@
-<b>Current Character:</b> Ellie
-<b>Current Location:</b> Seattle
-
-<b>MODS:</b>
+<p><b>Current Character:</b> Ellie</p>
+<p><b>Current Location:</b> Seattle</p>
+<p></p>
+<p><b>MODS:</b></p>
